@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching 𝐇𝐲𝐩𝐢𝐱𝐞𝐥"];
+const statusMessages = ["Watching 𝐇𝐲𝐩𝐢𝐱𝐞𝐥","Connected to SBHub!"];
 
 
 let currentIndex = 0;
